@@ -1,6 +1,7 @@
 #BlueJ class context
-comment0.params=pile
-comment0.target=Vue(PileModele)
+comment0.target=Vue
+comment0.text=\r\n\ D\u00C3\u00A9crivez\ votre\ classe\ Controleur\ ici.\r\n\ \r\n\ @author\ \ Sami\ Abou\ Karam\ \ \r\n\ @version\ Juin\ 2020\r\n
 comment1.params=obs\ arg
 comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.text=\r\n\ Mettre\ \u00E0\ jour\ la\ vue\ suite\ \u00E0\ une\ \u00E9mission\ du\ mod\u00E8le.\r\n
 numComments=2
